@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\POO\\MINI-proyecto\\Constructora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E143F12-A0B4-4110-B5F4-D1BCF19ADA0A}|Constructora\\Constructora.csproj|E:\\POO\\MINI-proyecto\\Constructora\\constructora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E143F12-A0B4-4110-B5F4-D1BCF19ADA0A}|Constructora\\Constructora.csproj|solutionrelative:constructora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E143F12-A0B4-4110-B5F4-D1BCF19ADA0A}|Constructora\\Constructora.csproj|e:\\poo\\mini-proyecto\\constructora\\constructora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E143F12-A0B4-4110-B5F4-D1BCF19ADA0A}|Constructora\\Constructora.csproj|solutionrelative:constructora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E143F12-A0B4-4110-B5F4-D1BCF19ADA0A}|Constructora\\Constructora.csproj|e:\\poo\\mini-proyecto\\constructora\\constructora\\primadominicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E143F12-A0B4-4110-B5F4-D1BCF19ADA0A}|Constructora\\Constructora.csproj|solutionrelative:constructora\\primadominicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E143F12-A0B4-4110-B5F4-D1BCF19ADA0A}|Constructora\\Constructora.csproj|e:\\poo\\mini-proyecto\\constructora\\constructora\\horasextras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E143F12-A0B4-4110-B5F4-D1BCF19ADA0A}|Constructora\\Constructora.csproj|solutionrelative:constructora\\horasextras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E143F12-A0B4-4110-B5F4-D1BCF19ADA0A}|Constructora\\Constructora.csproj|e:\\poo\\mini-proyecto\\constructora\\constructora\\seguro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E143F12-A0B4-4110-B5F4-D1BCF19ADA0A}|Constructora\\Constructora.csproj|solutionrelative:constructora\\seguro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E143F12-A0B4-4110-B5F4-D1BCF19ADA0A}|Constructora\\Constructora.csproj|e:\\poo\\mini-proyecto\\constructora\\constructora\\prestaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E143F12-A0B4-4110-B5F4-D1BCF19ADA0A}|Constructora\\Constructora.csproj|solutionrelative:constructora\\prestaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E143F12-A0B4-4110-B5F4-D1BCF19ADA0A}|Constructora\\Constructora.csproj|e:\\poo\\mini-proyecto\\constructora\\constructora\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E143F12-A0B4-4110-B5F4-D1BCF19ADA0A}|Constructora\\Constructora.csproj|solutionrelative:constructora\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E143F12-A0B4-4110-B5F4-D1BCF19ADA0A}|Constructora\\Constructora.csproj|e:\\poo\\mini-proyecto\\constructora\\constructora\\ingeniero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E143F12-A0B4-4110-B5F4-D1BCF19ADA0A}|Constructora\\Constructora.csproj|solutionrelative:constructora\\ingeniero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E143F12-A0B4-4110-B5F4-D1BCF19ADA0A}|Constructora\\Constructora.csproj|e:\\poo\\mini-proyecto\\constructora\\constructora\\ayudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E143F12-A0B4-4110-B5F4-D1BCF19ADA0A}|Constructora\\Constructora.csproj|solutionrelative:constructora\\ayudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E143F12-A0B4-4110-B5F4-D1BCF19ADA0A}|Constructora\\Constructora.csproj|e:\\poo\\mini-proyecto\\constructora\\constructora\\maestroobra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E143F12-A0B4-4110-B5F4-D1BCF19ADA0A}|Constructora\\Constructora.csproj|solutionrelative:constructora\\maestroobra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E143F12-A0B4-4110-B5F4-D1BCF19ADA0A}|Constructora\\Constructora.csproj|e:\\poo\\mini-proyecto\\constructora\\constructora\\trabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E143F12-A0B4-4110-B5F4-D1BCF19ADA0A}|Constructora\\Constructora.csproj|solutionrelative:constructora\\trabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ayudante.cs",
+              "DocumentMoniker": "E:\\POO\\MINI-proyecto\\Constructora\\Constructora\\Ayudante.cs",
+              "RelativeDocumentMoniker": "Constructora\\Ayudante.cs",
+              "ToolTip": "E:\\POO\\MINI-proyecto\\Constructora\\Constructora\\Ayudante.cs",
+              "RelativeToolTip": "Constructora\\Ayudante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T04:05:23.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HorasExtras.cs",
+              "DocumentMoniker": "E:\\POO\\MINI-proyecto\\Constructora\\Constructora\\HorasExtras.cs",
+              "RelativeDocumentMoniker": "Constructora\\HorasExtras.cs",
+              "ToolTip": "E:\\POO\\MINI-proyecto\\Constructora\\Constructora\\HorasExtras.cs",
+              "RelativeToolTip": "Constructora\\HorasExtras.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T21:35:27.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Seguro.cs",
+              "DocumentMoniker": "E:\\POO\\MINI-proyecto\\Constructora\\Constructora\\Seguro.cs",
+              "RelativeDocumentMoniker": "Constructora\\Seguro.cs",
+              "ToolTip": "E:\\POO\\MINI-proyecto\\Constructora\\Constructora\\Seguro.cs",
+              "RelativeToolTip": "Constructora\\Seguro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T21:36:00.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ingeniero.cs",
+              "DocumentMoniker": "E:\\POO\\MINI-proyecto\\Constructora\\Constructora\\Ingeniero.cs",
+              "RelativeDocumentMoniker": "Constructora\\Ingeniero.cs",
+              "ToolTip": "E:\\POO\\MINI-proyecto\\Constructora\\Constructora\\Ingeniero.cs",
+              "RelativeToolTip": "Constructora\\Ingeniero.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T04:04:22.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "E:\\POO\\MINI-proyecto\\Constructora\\Constructora\\Empresa.cs",
+              "RelativeDocumentMoniker": "Constructora\\Empresa.cs",
+              "ToolTip": "E:\\POO\\MINI-proyecto\\Constructora\\Constructora\\Empresa.cs",
+              "RelativeToolTip": "Constructora\\Empresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T04:05:52.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Prestaciones.cs",
+              "DocumentMoniker": "E:\\POO\\MINI-proyecto\\Constructora\\Constructora\\Prestaciones.cs",
+              "RelativeDocumentMoniker": "Constructora\\Prestaciones.cs",
+              "ToolTip": "E:\\POO\\MINI-proyecto\\Constructora\\Constructora\\Prestaciones.cs",
+              "RelativeToolTip": "Constructora\\Prestaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T21:27:42.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrimaDominicial.cs",
+              "DocumentMoniker": "E:\\POO\\MINI-proyecto\\Constructora\\Constructora\\PrimaDominicial.cs",
+              "RelativeDocumentMoniker": "Constructora\\PrimaDominicial.cs",
+              "ToolTip": "E:\\POO\\MINI-proyecto\\Constructora\\Constructora\\PrimaDominicial.cs",
+              "RelativeToolTip": "Constructora\\PrimaDominicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T21:34:51.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\POO\\MINI-proyecto\\Constructora\\Constructora\\Form1.cs",
+              "RelativeDocumentMoniker": "Constructora\\Form1.cs",
+              "ToolTip": "E:\\POO\\MINI-proyecto\\Constructora\\Constructora\\Form1.cs",
+              "RelativeToolTip": "Constructora\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwGQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T04:36:06.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\POO\\MINI-proyecto\\Constructora\\Constructora\\Form1.cs",
+              "RelativeDocumentMoniker": "Constructora\\Form1.cs",
+              "ToolTip": "E:\\POO\\MINI-proyecto\\Constructora\\Constructora\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Constructora\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T03:48:32.696Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MaestroObra.cs",
+              "DocumentMoniker": "E:\\POO\\MINI-proyecto\\Constructora\\Constructora\\MaestroObra.cs",
+              "RelativeDocumentMoniker": "Constructora\\MaestroObra.cs",
+              "ToolTip": "E:\\POO\\MINI-proyecto\\Constructora\\Constructora\\MaestroObra.cs",
+              "RelativeToolTip": "Constructora\\MaestroObra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T04:04:42.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Trabajador.cs",
+              "DocumentMoniker": "E:\\POO\\MINI-proyecto\\Constructora\\Constructora\\Trabajador.cs",
+              "RelativeDocumentMoniker": "Constructora\\Trabajador.cs",
+              "ToolTip": "E:\\POO\\MINI-proyecto\\Constructora\\Constructora\\Trabajador.cs",
+              "RelativeToolTip": "Constructora\\Trabajador.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T04:04:01.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
